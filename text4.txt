@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 1
 2
 3
+<<<<<<< HEAD
 <<<<<<< HEAD
 4
 =======
@@ -13,3 +13,6 @@
 =======
 4
 >>>>>>> parent of 46fcd44... hah
+=======
+4
+>>>>>>> parent of 165b47b... Revert "fine txt4"
