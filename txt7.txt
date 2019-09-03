@@ -2,5 +2,8 @@ hello
 
 welcome to txt7!
 
+
+what is going on!
+=======
 New
 Edit on mu s101 !
